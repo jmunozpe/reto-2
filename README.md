@@ -59,4 +59,4 @@ classDiagram
 ```
 
 
-# las flechas con punta vacía (<|--) indican herencia, por ejemplo Bibliotecario hereda de Usuario y adquiere sus atributos y métodos; los rombos rellenos (*--) representan composición, como en el caso de la Biblioteca, que está compuesta por Libro, Usuario y Prestamo, y si la biblioteca desaparece también lo hacen estos elementos; finalmente, las flechas (-->) muestran asociaciones, como que un Usuario realiza Prestamo y cada Prestamo está vinculado a un Libro.
+# las flechas con punta vacía indican herencia, por ejemplo Bibliotecario hereda de Usuario y adquiere sus atributos y métodos; los rombos rellenos representan composición, como en el caso de la Biblioteca, que está compuesta por Libro, Usuario y Prestamo, y si la biblioteca desaparece también lo hacen estos elementos; finalmente, las flechas muestran asociaciones, como que un Usuario realiza Prestamo y cada Prestamo está vinculado a un Libro.
